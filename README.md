@@ -1,6 +1,6 @@
 # Visualize the Sorting Algos
 
-https://sortify1.vercel.app/
+https://mysortfolio.vercel.app/
 
 # Getting Started with Create React App
 
